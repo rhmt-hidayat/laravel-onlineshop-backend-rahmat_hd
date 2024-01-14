@@ -34,7 +34,7 @@
             <li class="menu-header">Category</li>
             <li class="nav-item dropdown">
                 <a href="#"
-                    class="nav-link has-dropdown"><i class="fas fa-user"></i><span>Category</span></a>
+                    class="nav-link has-dropdown"><i class="fa-regular fa-file"></i><span>Category</span></a>
                 <ul class="dropdown-menu">
                     <li>
                         <a class="nav-link"
@@ -46,7 +46,7 @@
             <li class="menu-header">Product</li>
             <li class="nav-item dropdown">
                 <a href="#"
-                    class="nav-link has-dropdown"><i class="fas fa-user"></i><span>Product</span></a>
+                    class="nav-link has-dropdown"><i class="fa-solid fa-cart-shopping"></i><span>Product</span></a>
                 <ul class="dropdown-menu">
                     <li>
                         <a class="nav-link"
